@@ -1,0 +1,14 @@
+{
+  "name": "swearbot",
+  "version": "1.0.0",
+  "description": "Discord bot that deletes messages containing swear words",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js"
+  },
+  "author": "Alexander Szeremeta",
+  "license": "GNU GPLv3",
+  "dependencies": {
+    "discord.js": "^14.15.2"
+  }
+}
