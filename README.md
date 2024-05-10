@@ -1,4 +1,4 @@
-# simple-censor-discord-bot
+# Simple Censor Discord Bot
 ![swearbubble](https://github.com/szeremeta1/simple-censor-discord-bot/assets/66704967/224b0e7b-adee-4962-a438-0726838bd1ba)
 
 
